@@ -6,7 +6,8 @@
 2. Run `cd klarna-checkout-boilerplate` in the terminal.
 3. Run `npm i` in the terminal.
 4. Create a Klarna Playground Account + Klarna Playground API Key that you will use below:
-5. Create an .env file that looks like this: 
+5. Create an .env file that looks like this:
+
 ```
 NODE_ENV=development
 PORT=3000
@@ -15,6 +16,7 @@ SECRET_KEY=************
 CONFIRMATION_URL=https://klarna-checkout-matt.herokuapp.com
 BASE_URL=https://api.playground.klarna.com
 ```
+
 6. Run `sudo npm install -g nodemon` in the terminal.
 7. Run `npm run dev` in the terminal.
 8. The application should now be running on `http://localhost:3000`
@@ -37,6 +39,7 @@ src
 
 ```
 
+cgdgfgdfgdfg
 **Keep in mind that we often group files in to the following categories:**
 
 ```
